@@ -1,5 +1,5 @@
 # install-php-apache-xdebug-on-macos 
-### How to install PHP 7.4 on Mac OS with xDebug and Apache to work properly on your local machine
+How to install PHP 7.4 on Mac OS with xDebug and Apache to work properly on your local machine
 
 ### This Guide was designed to help you set up PHP 7.4 and all that great stuff that comes with it. The Guide should work for other version as well
 
